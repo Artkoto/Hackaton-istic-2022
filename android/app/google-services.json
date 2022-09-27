@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "123252689161",
+    "firebase_url": "https://hackatono-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "hackatono",
+    "storage_bucket": "hackatono.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123252689161:android:98e732a4d8b55e23b36bd8",
+        "android_client_info": {
+          "package_name": "com.hackaton.obsidian.hackaton_obsidian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123252689161-pf46ms9oki9hqgv86pshdr7q9ct2dsum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUWyzmhw-IFKKKCiHJ0xMvzsVO-I1dW5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123252689161-pf46ms9oki9hqgv86pshdr7q9ct2dsum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123252689161:android:b6022e76c4def308b36bd8",
+        "android_client_info": {
+          "package_name": "fr.istic.hackathon.hackathono"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123252689161-pf46ms9oki9hqgv86pshdr7q9ct2dsum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUWyzmhw-IFKKKCiHJ0xMvzsVO-I1dW5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123252689161-pf46ms9oki9hqgv86pshdr7q9ct2dsum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
